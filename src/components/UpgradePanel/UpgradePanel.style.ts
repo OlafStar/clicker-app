@@ -18,7 +18,7 @@ export const UpgradePanelWrapper = styled.div`
     display: flex;
     justify-content: space-between;
     p {
-      color: rgba(255, 255, 255, 0.6);
+      color: rgba(255, 255, 255, 0.65);
     }
   }
 `;
